@@ -5,7 +5,6 @@
   * [Motivation](#motivation)
   * [Approach](#approach)
   * [Technical Aspect](#technical-aspect)
-  * [Installation](#installation)
   * [Run](#run)
   * [Bug / Feature Request](#bug---feature-request)
   * [Technology Stack](#technology-stack)
@@ -26,7 +25,7 @@ In order to classify the tweets, I tried with all the traditional machine learni
 ## Technical Aspect
 BERT is being used to classify the tweet as disastrous or not. BERT being the state-of-the-art model to understand the context, could really prove out to be a handy tool. BERT is being fine-tuned over the dataset. Kaggle's [dataset](https://www.kaggle.com/c/nlp-getting-started/data) has been used for the project.
 
-## Installation
+## Run
 Open a google colab notebook and run the cells.
 
 
